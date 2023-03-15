@@ -4,7 +4,7 @@ SoundPedia is an app that provides information about different music genres, inc
 
 ## API
 
-All the required information for building this app is available in the API provided by Last.fm https://www.last.fm/api
+https://www.last.fm/api
 
 ## Installation
 
